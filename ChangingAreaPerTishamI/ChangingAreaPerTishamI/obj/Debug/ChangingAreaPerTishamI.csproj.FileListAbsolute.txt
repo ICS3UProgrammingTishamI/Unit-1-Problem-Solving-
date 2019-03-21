@@ -1,0 +1,10 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\bin\Debug\ChangingAreaPerTishamI.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\bin\Debug\ChangingAreaPerTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\bin\Debug\ChangingAreaPerTishamI.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\obj\Debug\ChangingAreaPerTishamI.csprojAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\obj\Debug\ChangingAreaPerTishamI.frmChangingAreaPer.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\obj\Debug\ChangingAreaPerTishamI.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\obj\Debug\ChangingAreaPerTishamI.csproj.GenerateResource.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\obj\Debug\ChangingAreaPerTishamI.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\obj\Debug\ChangingAreaPerTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\ChangingAreaPerTishamI\ChangingAreaPerTishamI\obj\Debug\ChangingAreaPerTishamI.pdb

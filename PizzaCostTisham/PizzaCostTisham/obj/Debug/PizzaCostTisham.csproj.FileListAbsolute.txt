@@ -1,0 +1,10 @@
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\obj\Debug\PizzaCostTisham.csprojAssemblyReference.cache
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\obj\Debug\PizzaCostTisham.frmPizzaCost.resources
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\obj\Debug\PizzaCostTisham.Properties.Resources.resources
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\obj\Debug\PizzaCostTisham.csproj.GenerateResource.cache
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\obj\Debug\PizzaCostTisham.csproj.CoreCompileInputs.cache
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\bin\Debug\PizzaCostTisham.exe.config
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\bin\Debug\PizzaCostTisham.exe
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\bin\Debug\PizzaCostTisham.pdb
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\obj\Debug\PizzaCostTisham.exe
+C:\Users\s419015\source\repos\PizzaCostTisham\PizzaCostTisham\obj\Debug\PizzaCostTisham.pdb

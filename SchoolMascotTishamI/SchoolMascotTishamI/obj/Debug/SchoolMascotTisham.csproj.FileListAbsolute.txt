@@ -1,0 +1,10 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\bin\Debug\SchoolMascotTishamI.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\bin\Debug\SchoolMascotTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\bin\Debug\SchoolMascotTishamI.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\obj\Debug\SchoolMascotTisham.csprojAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\obj\Debug\SchoolMascotTishamI.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\obj\Debug\SchoolMascotTishamI.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\obj\Debug\SchoolMascotTisham.csproj.GenerateResource.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\obj\Debug\SchoolMascotTisham.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\obj\Debug\SchoolMascotTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\SchoolMascotTishamI\SchoolMascotTishamI\obj\Debug\SchoolMascotTishamI.pdb

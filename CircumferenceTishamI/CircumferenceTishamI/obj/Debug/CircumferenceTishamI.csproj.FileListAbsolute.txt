@@ -1,0 +1,10 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\obj\Debug\CircumferenceTishamI.csprojAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\obj\Debug\CircumferenceTishamI.frmCircumference.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\obj\Debug\CircumferenceTishamI.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\obj\Debug\CircumferenceTishamI.csproj.GenerateResource.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\obj\Debug\CircumferenceTishamI.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\bin\Debug\CircumferenceTishamI.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\bin\Debug\CircumferenceTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\bin\Debug\CircumferenceTishamI.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\obj\Debug\CircumferenceTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Unit 1 (Problem Solving)\CircumferenceTishamI\CircumferenceTishamI\obj\Debug\CircumferenceTishamI.pdb
